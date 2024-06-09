@@ -18,3 +18,8 @@
 ![Screenshot de la pantalla inicial de AluraPlay](https://github.com/josevflores911/JavaScript/blob/main/img/encabezado/screenshoot_a.PNG)
 ![Screenshot de la pantalla del formulário do AluraPlay](https://github.com/josevflores911/JavaScript/blob/main/img/encabezado/screenshoot_b.PNG)
 ![Screenshot de la pantalla del envio exitoso de video](https://github.com/josevflores911/JavaScript/blob/main/img/encabezado/screenshoot_b.PNG)
+
+## Comandos usados para el servidor
+1. npm init
+2. npm install json-server //Instalar servidor
+3. npx json-server --watch db.json --port 3001 //Activar servidor
